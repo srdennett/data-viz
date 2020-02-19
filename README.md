@@ -20,6 +20,7 @@ Below are some resources all around building a Center of Excellence that support
 * [Data to decision part II | Organizational change at Nationwide](https://tc18.tableau.com/learn/sessions/32402) (TC18)
 * [Building a Tableau COE | Step-by-step](https://tc18.tableau.com/learn/sessions/32260) (TC18)
 * [Skill belts in a box](https://tc18.tableau.com/learn/sessions/32268) (TC18)
+* [American Family Insurance: Raising our Tableau baby](https://www.youtube.com/watch?v=lGDocRFyTdg&feature=youtu.be) (TC16)
 
 ### Blog Posts
 * [5 Steps to Create a Center of Excellence in your Enterprise](https://www.tableau.com/about/blog/2014/7/5-steps-create-center-excellence-your-enterprise-31598) (Tableau)
@@ -39,4 +40,4 @@ Below are some resources all around building a Center of Excellence that support
 * [How to Build a Center of Excellence (and why you should)](https://www.tableau.com/learn/webinars/cap-center-of-excellence) (Tableau Webinar)
 
 
-Thanks to [Mark Bradbourne](https://twitter.com/MarkBradbourne), [Sarah Bartlett](https://twitter.com/sarahlovesdata), [Jesse McConnell](https://twitter.com/mcconnellj), [Cesar Picco](https://twitter.com/CesarPicco), and [Marc Schønwandt](https://twitter.com/MarcSchonwandt) for helping me find some of these resources.
+Thanks to [Mark Bradbourne](https://twitter.com/MarkBradbourne), [Sarah Bartlett](https://twitter.com/sarahlovesdata), [Jesse McConnell](https://twitter.com/mcconnellj), [Cesar Picco](https://twitter.com/CesarPicco), [Marc Schønwandt](https://twitter.com/MarcSchonwandt), and [Sarah Weber](https://twitter.com/sarahecw) for helping me find some of these resources.

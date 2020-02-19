@@ -3,7 +3,9 @@
 My name is Steven Dennett, and I'm a practitioner/leader in the analytics space, with an interest in data visualization. Currently I manage the Data Science Center of Excellence at NetJets, which includes supporting our Tableau users. I'm using this space on GitHub to organize and share resources and information that other users in the Tableau community may find helpful.
 
 ## Centers of Excellence
-A Tableau Center of Excellence can take many different forms depending on the needs of a particular business.  It may be a formal or informal group of Tableau practitioners.  It may focus on maintaining a Tableau server, training users, developing standards and best practices, managing dashboard/viz quality programs, developing new dashboards, running an internal user group, or a myriad of other things.  Below are some resources all around building a Center of Excellence that supports Tableau.  Use these links to find ideas that can help help you build the right CoE for _your_ company.
+A Tableau Center of Excellence can take many different forms depending on the needs of a particular business.  It may be a formal or informal group of Tableau practitioners.  In a company just at the beginning of their analytics journey, a CoE may be the center of all analytics activity; at a more analytically mature company, a CoE may play a more supportive role to a broader analytics community. A CoE may be responsible for a myriad tasks, including (but definitly not limited to) maintaining a Tableau server, training users, developing standards and best practices, managing dashboard/viz quality programs, developing new dashboards, running an internal user group, or fostering a sense of community among users. 
+
+Below are some resources all around building a Center of Excellence that supports Tableau.  Use these links to find ideas that can help help you build the right CoE for _your_ company.
 
 ### TC Session Videos
 * [Comcast: Doubling Down on Tableau](https://tc19.tableau.com/learn/sessions/comcast-doubling-down-tableau) (TC19)
@@ -17,6 +19,7 @@ A Tableau Center of Excellence can take many different forms depending on the ne
 * [Building the Tableau Empire at Charles Schwab](https://tc18.tableau.com/learn/sessions/32524) (TC18)
 * [Data to decision part II | Organizational change at Nationwide](https://tc18.tableau.com/learn/sessions/32402) (TC18)
 * [Building a Tableau COE | Step-by-step](https://tc18.tableau.com/learn/sessions/32260) (TC18)
+* [Skill belts in a box](https://tc18.tableau.com/learn/sessions/32268) (TC18)
 
 ### Blog Posts
 * [5 Steps to Create a Center of Excellence in your Enterprise](https://www.tableau.com/about/blog/2014/7/5-steps-create-center-excellence-your-enterprise-31598) (Tableau)

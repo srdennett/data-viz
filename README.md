@@ -2,6 +2,8 @@
 
 My name is Steven Dennett, and I'm a practitioner/leader in the analytics space, with an interest in data visualization. Currently I manage the Data Science Center of Excellence at NetJets, which includes supporting our Tableau users. I'm using this space on GitHub to organize and share resources and information that other users in the Tableau community may find helpful.
 
+Want to chat? Have something to contribute?  Find me on [LinkedIn](https://www.linkedin.com/in/stevendennett/) and [Twitter](https://twitter.com/srdennett)
+
 ## Centers of Excellence
 A Tableau Center of Excellence can take many different forms depending on the needs of a particular business.  It may be a formal or informal group of Tableau practitioners.  In a company just at the beginning of their analytics journey, a CoE may be the center of all analytics activity; at a more analytically mature company, a CoE may play a more supportive role to a broader analytics community. A CoE may be responsible for a myriad tasks, including (but definitly not limited to) maintaining a Tableau server, license management, onboarding & training users, developing standards and best practices, managing dashboard/viz quality programs, developing new dashboards, running an internal user group, or fostering a sense of community among users. 
 

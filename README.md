@@ -36,6 +36,7 @@ Below are some resources all around building a Center of Excellence that support
 * [Making the most of the community; team development in a Centre of Excellence](https://www.vizionaryblog.co.uk/post/making-the-most-of-the-community-team-development-in-a-centre-of-excellence) (vizionaryblog.co.uk)
 * [When a Zen comes to town](https://www.vizionaryblog.co.uk/post/when-a-zen-comes-to-town) (vizionaryblog.co.uk)
 * [Setting the standards](https://www.vizionaryblog.co.uk/post/setting-the-standards) (vizionaryblog.co.uk)
+* [The CoE Playbook - Introduction](https://www.vizionaryblog.co.uk/post/the-coe-playbook-introduction) (vizionaryblog.co.uk)
 
 ### Other Resources
 * [Tableau Blueprint](https://help.tableau.com/current/blueprint/en-us/bp_overview.htm)
